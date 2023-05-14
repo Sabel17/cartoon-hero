@@ -1,0 +1,29 @@
+<style type="text.css">
+		
+		
+		h1{
+			font-size: 30px;
+			color: darksalmon;
+		}
+
+		h2{
+			font-size: 20px;
+			color: darkred;
+		}
+		.big{
+			font-size: 60px;
+		}
+		.uppercase{
+			text-transform: uppercase;
+		}
+		.big.uppercase{
+			color: green;
+		}
+		span{
+			color: blue;
+		}
+		body{
+			background-color: yellowgreen;
+		}
+	</style>
+		}
